@@ -12,7 +12,6 @@ library(factoextra)
 library(ggplot2)
 library(ggcorrplot)
 library(ape)
-library(ggplot2)
 library(ggdendro)
 
 # chargement dataframe
