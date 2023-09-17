@@ -10,3 +10,5 @@ Deux sources de données ont été utilisées pour la construction de la base de
 
 Langage utilisé : R
 Note obtenue : 18/20.
+
+Pour voir le projet : Etude_bonvivre.pdf
