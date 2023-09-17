@@ -2,7 +2,7 @@
 
 Projet d'analyse de données qui m'a permis de valider l'UE STA101 (Cnam).
 
-L'étude, qui porte sur 119 pays, tente d'étudier les relations entre les différents critères de 'bon vivre' selectionnés tout en établissant des catégories de pays où il fait 'bon vivre'.
+L'étude, qui porte sur 119 pays, tente d'étudier les relations entre les différents critères de 'bon vivre' selectionnés tout en cherchant a établir des catégories de pays où il fait 'bon vivre'.
  
 Ce projet a permis la mise en pratique de statistiques descriptives univariées , bivariées, des méthodes de classifications non supervisées (CAH, K-means) ainsi qu'une méthode d'analyse factorielle (AFDM).
 
