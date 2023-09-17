@@ -1,4 +1,4 @@
-# DA_projet_STA101 
+# DA_projet_bonvivre_STA101 
 
 Projet d'analyse de données qui m'a permis de valider l'UE STA101 (Cnam).
 
