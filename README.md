@@ -1,5 +1,10 @@
 # DA_projet_STA101
-Projet d'analyse de données qui m'a permis de valider l'UE STA101 (Cnam) en utilisant les statistiques descriptives univariées , bivariées, les méthodes de classifications non supervisées (CAH, K-means) ainsi qu'une méthode d'analyse factorielle (AFDM).
+
+Projet d'analyse de données qui m'a permis de valider l'UE STA101 (Cnam).
+
+L'étude portant sur 119 pays tente d'étudier la relation entre les différents critères de 'bon vivre' selectionnés et d'établir des catégories de pays où il fait 'bon vivre'.
+ 
+Ce projet a permis la mise en pratique de statistiques descriptives univariées , bivariées, des méthodes de classifications non supervisées (CAH, K-means) ainsi qu'une méthode d'analyse factorielle (AFDM).
 
 Deux sources de données ont été utilisées pour la construction de la base de données : 
 - https://www.kaggle.com
