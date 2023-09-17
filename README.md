@@ -1,4 +1,4 @@
-# DA_projet_bonvivre 
+# DA_projet_bonvivre :earth_americas:
 
 Projet d'analyse de données qui m'a permis de valider l'UE STA101 (Cnam).
 
